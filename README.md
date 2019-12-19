@@ -8,4 +8,6 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
+As stated above, the main purposes is to provide simples examples for Git training demos
+
 ## How to Contribute
