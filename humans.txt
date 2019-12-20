@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Henrique Corte  HCorte  hmmbcorte@gmail.com
 
 # THANKS
 
